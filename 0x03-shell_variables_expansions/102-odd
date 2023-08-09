@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l |sort -b  | cut -d " " -f10| head -n9
+ls -l  | cut -d " " -f10| head -n9
